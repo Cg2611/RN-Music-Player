@@ -77,7 +77,7 @@ function App(): React.JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> hi Testing merge request this should pop up as a conflict    </Section>
+            Edit <Text style={styles.highlight}>App.tsx</Text> hii Testing merge request this should pop up as a conflict    </Section>
          
           <Section title="See Your Changes">
             <ReloadInstructions />
