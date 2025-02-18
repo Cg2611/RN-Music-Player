@@ -78,6 +78,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> Testing merge request this should pop up as a conflict    </Section>
+         
           <Section title="See Your Changes">
             <ReloadInstructions />
           </Section>
